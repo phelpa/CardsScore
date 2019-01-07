@@ -1,7 +1,3 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
+# CardsScore
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Transforming robofriend app from "The Complete Web Developer in 2019" 
